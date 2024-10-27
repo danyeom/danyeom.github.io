@@ -17,4 +17,4 @@ I'm the lab manager of the Clinical and Music Neuroscience Lab in the Melbourne 
 
 My research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms.
 
-This page is a work in progress but I hope to add to it soon!
+This page is a work in progress but I hope to add to it soon! I recently switched over from using Bookdown + Hugo to Quarto for this website, so things are still missing from this new page.
