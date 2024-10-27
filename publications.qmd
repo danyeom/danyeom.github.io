@@ -1,0 +1,44 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: true
+---
+
+I keep my Orcid and Google Scholar relatively up to date.
+
+### **Journal articles**
+
+\* denotes joint first-author status.
+
+**Yeom, D.**, Haslam, N., Tan, Y. T., McPherson, G. E., & Wilson, S. J. (2024). Twin data support a sensitive period for singing ability. *Twin Research and Human Genetics.* FirstView. [https://doi.org/10.1017/thg.2024.30](#0)
+
+**Yeom, D.**, \* Stead, K. S., \* Tan, Y. T., McPherson, G. E., & Wilson, S. J. (2023). Self-evaluations of singing ability are accurate. *Annals of the New York Academy of Sciences, 1530*(1), 87-95. <https://doi.org/10.1111/nyas.15081>
+
+**Yeom, D.**, Tan, Y. T., Haslam, N., Mosing, M. A., Yap, V. M. Z., Fraser, T., McPherson, G. E., Hildebrand, M. S., Berkovic, S. F., Peretz, I., & Wilson, S. J. (2022). Genetic factors and shared environment contribute equally to objective singing ability. *iScience, 25*(6), 104360. <https://doi.org/10.1016/j.isci.2022.104360>
+
+------------------------------------------------------------------------
+
+### **Book chapters**
+
+Coming soon...
+
+------------------------------------------------------------------------
+
+### **Conference papers and posters**
+
+McKenzie, S., Glasser, S., Osborne, M., & **Yeom, D.** (2024, July 2-4). *Sounds of compassion: An analysis of Spotify data* \[Conference presentation\]. 12^th^ European Society for the Cognitive Sciences of Music (ESCOM12), Melbourne, Australia.
+
+Krause, A. E., **Yeom, D.,** Osborne, M., & Glasser, S. (2024, July 2-4). *Can we categorise listeners? A latent profile analysis* \[Conference presentation\]. Australian Music and Psychology Society (AMPS) annual conference, Melbourne, Australia.
+
+**Yeom. D.**, Peretz, I., Tan, Y. T., Mosing, M. A., Hildebrand, M. S., Berkovic, S. F., McPherson, G. E., & Wilson, S. J. (2024, June 13-16). Perceptual and vocal pitch matching demonstrate genetic pleiotropy in Australian twins \[Poster presentation\]. The 8th meeting of The Neurosciences and Music, Helsinki, Finland.
+
+Hughes, B., **Yeom, D.**, & Mathur, A. (2023, July 20-22). What finger movements reveal about braille reading: The case of regressions \[Conference presentation\]. Society for the Scientific Study of Reading Conference, Port Douglas, Queensland, Australia.
+
+**Yeom, D.**, Haslam, N., Tan, Y. T., & Wilson, S. J. (2022, September 28). Testing the latent structure of singing ability \[Conference presentation\]. Australian Music and Psychology Society (AMPS) annual conference, online.
+
+**Yeom, D.**, McPherson, G. E., Hildebrand, M. S., Berkovic, S. F., Peretz, I., & Wilson, S. J. (2021, July 28-31). A critical systematic literature review of the genetic basis of music ability \[Conference presentation\]. 16th International Conference on Music Perception and Cognition and the 11th European Society for the Cognitive Sciences of Music (ICMPC16-ESCOM11), online.
+
+**Yeom, D.**, Lines, D. K., & Kirk, I. J. (2019, November 29 -- December 1). No consistent evidence for frontal alpha asymmetry differences between musicians and controls: An exploration of state-trait dynamics in the emotional processing of music \[Conference presentation\]. KiwiCAM VIII, Auckland, New Zealand.
+
+**Yeom, D.**, Lines, D. K., & Kirk, I. J. (2019, July). Frontal alpha asymmetry, musical emotions and the role of expertise \[Poster presentation\]. 7th International Symposium of Performance Science (ISPS), Melbourne, Australia.

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Daniel Yeom"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+
