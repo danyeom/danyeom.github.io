@@ -7,8 +7,16 @@ about:
   image-shape: round
   image-width: 5cm
   links:
-    - icon: github
-    - icon: email
+    - text: "{{< iconify fa6-brands github size=Huge >}}"
+      href: "https://github.com/danyeom/danyeom.github.io"
+    - text: "{{< iconify fa6-brands google-scholar size=Huge >}}"
+      href: "https://scholar.google.com.au/citations?user=zvYEfOwAAAAJ&hl=en"
+    - text: "{{< iconify academicons researchgate size=Huge >}}"
+      href: "https://www.researchgate.net/profile/Daniel-Yeom"
+    - text: "{{< iconify academicons orcid size=Huge >}}"
+      href: "https://orcid.org/0000-0002-1281-6299"
+    - text: "{{< iconify mdi email-outline size=Huge >}}"
+      href: "mailto:yeom.d@unimelb.edu.au"
 ---
 
 ## **Hi there!**
