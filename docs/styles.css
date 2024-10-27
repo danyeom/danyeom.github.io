@@ -2,3 +2,10 @@
 div.quarto-about-trestles .about-entity .about-link {
 	border: 0px
 }
+
+@media (max-width: 992px) {
+    div.quarto-about-trestles .about-entity .about-links {
+      flex-direction: row;
+    }
+}
+    
