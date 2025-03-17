@@ -1,0 +1,16 @@
+---
+title: "Media engagement and writing"
+format:
+  html:
+    toc: true
+---
+
+## 2023
+
+**ABC Breakfast Perth**: [Friday 13th October 2023](https://www.abc.net.au/listen/programs/perth-breakfast/breakfast/102948514)
+
+**The Age/Sydney Morning Herald**: [Are we born to hold a tune or can we learn it? The science of singing](https://www.theage.com.au/national/are-we-born-to-hold-a-tune-or-can-we-learn-it-the-science-of-singing-20231010-p5eb14.html)
+
+## 2022
+
+**Costco Connection Australia** (Sep-Oct 2022 edition): [Mindful music](https://cdn1.costco.com.au/flipbooks/Sep-Oct_2022/index.html#page=12)
