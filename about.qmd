@@ -2,23 +2,27 @@
 title: "About Dan"
 ---
 
-I am a South Korean-born, Aotearoa New Zealand-raised researcher in music science. I completed a conjoint BSc/BMus at the University of Auckland, and a BSc (Hons) in psychology after that. I then moved to the University of Melbourne to pursue a PhD in the Melbourne School of Psychological Sciences.
+I am a South Korean-born, Aotearoa New Zealand-raised researcher in behavioural genetics and music science. I completed a conjoint BSc/BMus at the University of Auckland, and a BSc (Hons) in psychology after that. I then moved to the University of Melbourne to pursue a PhD in the Melbourne School of Psychological Sciences.
+
+In a previous life (i.e. before the PhD) I played solo fingerstyle guitar, and also electric bass for a local big band. I taught at a private music school for \~5 years during my undergraduate years.
+
+My niche hobby (every academic has one) is building mechanical keyboards. (I'll post photos soon.)
 
 ### Education
 
-+--------------+--------------------------------------------------------------------------------------------------------------------------+
-| 2020 - 2024  | **Doctor of Philosophy**\                                                                                                |
-|              | Melbourne Schoool of Psychological Sciences, Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne |
-|              |                                                                                                                          |
-|              | Supervisors: Prof. Sarah WIlson, Prof. Gary McPherson, A/Prof. Margaret Osborne                                          |
-|              |                                                                                                                          |
-|              | Thesis title: Genetic and environmental influences on singing ability                                                    |
-+--------------+--------------------------------------------------------------------------------------------------------------------------+
-| 2019         | **Bachelor of Science (Hons)** in Psychology, First Class\                                                               |
-|              | School of Psychology, Faculty of Science, University of Auckland                                                         |
-|              |                                                                                                                          |
-|              | Supervisors: Prof. Ian Kirk, A/Prof. David Lines                                                                         |
-+--------------+--------------------------------------------------------------------------------------------------------------------------+
-| 2015 - 2018  | **Bachelor of Science** (Psychology), **Bachelor of Music** (Musicology/Music Education)\                                |
-|              | University of Auckland                                                                                                   |
-+--------------+--------------------------------------------------------------------------------------------------------------------------+
++-------------+--------------------------------------------------------------------------------------------------------------------------+
+| 2020 - 2024 | **Doctor of Philosophy**\                                                                                                |
+|             | Melbourne Schoool of Psychological Sciences, Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne |
+|             |                                                                                                                          |
+|             | Supervisors: Prof. Sarah WIlson, Prof. Gary McPherson, A/Prof. Margaret Osborne                                          |
+|             |                                                                                                                          |
+|             | Thesis title: [Genetic and environmental influences on singing ability](https://hdl.handle.net/11343/355938)             |
++-------------+--------------------------------------------------------------------------------------------------------------------------+
+| 2019        | **Bachelor of Science (Hons)** in Psychology, First Class\                                                               |
+|             | School of Psychology, Faculty of Science, University of Auckland                                                         |
+|             |                                                                                                                          |
+|             | Supervisors: Prof. Ian Kirk, Prof. David Lines                                                                           |
++-------------+--------------------------------------------------------------------------------------------------------------------------+
+| 2015 - 2018 | **Bachelor of Science** (Psychology), **Bachelor of Music** (Musicology/Music Education)\                                |
+|             | University of Auckland                                                                                                   |
++-------------+--------------------------------------------------------------------------------------------------------------------------+

@@ -21,8 +21,10 @@ about:
 
 ## **Hi there!**
 
-I'm the lab manager of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in the school.
+I'm the lab manager of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in MSPS.
 
 My research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I'm also interested in how to phenotype and measure individual differences in musicality.
 
-This page is a work in progress but I hope to add to it soon! I recently switched over from using Bookdown + Hugo to Quarto for this website, so things are still missing from this new page.
+This page is a work in progress but I hope to add to it soon! I'm still learning how to use Quarto, and I eventually want to make this page nice and pretty.
+
+You can learn more [about me here](../about.html).

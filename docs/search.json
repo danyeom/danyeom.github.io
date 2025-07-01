@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Daniel Yeom",
     "section": "",
-    "text": "I’m the lab manager of the Clinical and Music Neuroscience Lab in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in the school.\nMy research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I’m also interested in how to phenotype and measure individual differences in musicality.\nThis page is a work in progress but I hope to add to it soon! I recently switched over from using Bookdown + Hugo to Quarto for this website, so things are still missing from this new page.\nYou can learn more about me here."
+    "text": "I’m the lab manager of the Clinical and Music Neuroscience Lab in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in MSPS.\nMy research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I’m also interested in how to phenotype and measure individual differences in musicality.\nThis page is a work in progress but I hope to add to it soon! I’m still learning how to use Quarto, and I eventually want to make this page nice and pretty.\nYou can learn more about me here."
   },
   {
     "objectID": "index.html#hi-there",
     "href": "index.html#hi-there",
     "title": "Daniel Yeom",
     "section": "",
-    "text": "I’m the lab manager of the Clinical and Music Neuroscience Lab in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in the school.\nMy research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I’m also interested in how to phenotype and measure individual differences in musicality.\nThis page is a work in progress but I hope to add to it soon! I recently switched over from using Bookdown + Hugo to Quarto for this website, so things are still missing from this new page.\nYou can learn more about me here."
+    "text": "I’m the lab manager of the Clinical and Music Neuroscience Lab in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in MSPS.\nMy research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I’m also interested in how to phenotype and measure individual differences in musicality.\nThis page is a work in progress but I hope to add to it soon! I’m still learning how to use Quarto, and I eventually want to make this page nice and pretty.\nYou can learn more about me here."
   },
   {
     "objectID": "about.html",
@@ -32,18 +32,25 @@
     "href": "media.html",
     "title": "Media engagement and writing",
     "section": "",
-    "text": "ABC Breakfast Perth: Friday 13th October 2023\nThe Age/Sydney Morning Herald: Are we born to hold a tune or can we learn it? The science of singing"
+    "text": "Australia’s Most Identical, Channel Nine (Episode 2, June 24-25 2025): Watch series here\nBody + Soul Magazine (May 11 2025): 7 surprising energy boosters better than a coffee"
   },
   {
     "objectID": "media.html#section",
     "href": "media.html#section",
     "title": "Media engagement and writing",
     "section": "",
-    "text": "ABC Breakfast Perth: Friday 13th October 2023\nThe Age/Sydney Morning Herald: Are we born to hold a tune or can we learn it? The science of singing"
+    "text": "Australia’s Most Identical, Channel Nine (Episode 2, June 24-25 2025): Watch series here\nBody + Soul Magazine (May 11 2025): 7 surprising energy boosters better than a coffee"
   },
   {
     "objectID": "media.html#section-1",
     "href": "media.html#section-1",
+    "title": "Media engagement and writing",
+    "section": "2023",
+    "text": "2023\nABC Breakfast Perth: Friday 13th October 2023\nThe Age/Sydney Morning Herald (October 10 2023): Are we born to hold a tune or can we learn it? The science of singing"
+  },
+  {
+    "objectID": "media.html#section-2",
+    "href": "media.html#section-2",
     "title": "Media engagement and writing",
     "section": "2022",
     "text": "2022\nCostco Connection Australia (Sep-Oct 2022 edition): Mindful music"

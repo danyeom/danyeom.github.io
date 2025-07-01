@@ -5,7 +5,7 @@ format:
     toc: true
 ---
 
-I keep my Orcid and Google Scholar relatively up to date.
+Below is a list of all of my publications. I also keep my [Orcid](https://orcid.org/0000-0002-1281-6299) and [Google Scholar](https://scholar.google.com.au/citations?user=zvYEfOwAAAAJ&hl=en) relatively up to date.
 
 ### **Journal articles**
 
