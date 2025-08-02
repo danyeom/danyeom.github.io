@@ -18,8 +18,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
       dark: [solar, theme-dark.scss]
+      light: cosmo
     css: styles.css
     toc: false
 

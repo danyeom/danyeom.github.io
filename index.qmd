@@ -3,7 +3,7 @@ title: "Daniel Yeom"
 subtitle: "lab manager, university of melbourne"
 about:
   template: trestles
-  image: profile.jpeg
+  image: dan_profile_2025.jpg
   image-shape: round
   image-width: 5cm
   links:
