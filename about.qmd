@@ -7,7 +7,7 @@ about:
   image-title: "Muriwai Beach, Auckland. Love this place."
 ---
 
-###   {#hero-heading}
+###  {#hero-heading}
 
 I am a South Korean-born, Aotearoa New Zealand-raised researcher in behavioural genetics and music science. I completed a conjoint BSc/BMus at the University of Auckland, and a BSc (Hons) in psychology after that. I then moved to the University of Melbourne to pursue a PhD in the Melbourne School of Psychological Sciences.
 
