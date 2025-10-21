@@ -1,10 +1,12 @@
 ---
-title: "About Dan"
+title: "About me"
+subtitle: "photo: \_michael.yu.photo\_"
 about:
-  id: hero-heading
-  template: broadside
-  image: muriwai.jpg
-  image-title: "Muriwai Beach, Auckland. Love this place."
+  #id: hero-heading
+  template: trestles
+  image: aboutme_2025.jpg
+  image-title: "Photo by Michael Yu"
+  image-shape: rectangle
 ---
 
 ###  {#hero-heading}
@@ -15,7 +17,7 @@ In a previous life (i.e. before the PhD) I played solo fingerstyle guitar, and a
 
 My niche hobby (every academic has one) is building mechanical keyboards. (I may add a page to this site eventually.)
 
-### Education
+## **Education**
 
 +-------------+--------------------------------------------------------------------------------------------------------------------------+
 | 2020 - 2024 | **Doctor of Philosophy**\                                                                                                |
