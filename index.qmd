@@ -1,6 +1,6 @@
 ---
 title: "Daniel Yeom"
-subtitle: "lab manager, university of melbourne"
+subtitle: "university of melbourne"
 about:
   template: trestles
   image: dan_profile_2025.jpg
@@ -21,7 +21,7 @@ about:
 
 ## **Hi there!**
 
-I'm the lab manager of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne. I also recently completed my PhD in MSPS.
+I'm part of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne, where I completed my PhD.
 
 My research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I'm also interested in how to phenotype and measure individual differences in musicality.
 

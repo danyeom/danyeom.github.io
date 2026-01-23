@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
 /.quarto/
+jobhunt_data.csv
+
+**/*.quarto_ipynb
