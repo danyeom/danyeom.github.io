@@ -21,9 +21,15 @@ about:
 
 ## **Hi there!**
 
-I'm part of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne, where I completed my PhD.
+I'm a behavioural geneticist and part of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne, where I completed my PhD.
 
-My research focuses around the behavioural genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. I'm also interested in how to phenotype and measure individual differences in musicality.
+My research focuses around the genetics of human musicality - that is, the various behavioural and cognitive traits that influence our capacity to be musical, in all of its forms. There are three main strands to this:
+
+1.  Genetic and environmental influences on musicality traits (e.g. singing ability)
+
+2.  How to phenotype and measure individual differences in musicality
+
+3.  How people understand their own musicality and abilities (e.g. through self-evaluation)
 
 This page is a work in progress but I hope to add to it soon! I'm still learning how to use Quarto, and I eventually want to make this page nice and pretty.
 
