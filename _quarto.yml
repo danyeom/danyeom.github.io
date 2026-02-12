@@ -12,6 +12,8 @@ website:
         text: About me
       - href: publications.qmd
         text: Publications
+      - href: projects.qmd
+        text: Research projects
       - href: media.qmd
         text: Media
 
