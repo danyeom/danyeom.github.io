@@ -1,0 +1,34 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: true
+---
+
+Below is a list of my current research projects!
+
+### [**Genetic and environmental influences on singing ability**](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab/research/genetics-and-neurobiology-of-singing-and-music-ability/the-genetic-basis-of-singing-ability)
+
+[Co-investigators]{.underline}: Prof. Sarah Wilson (PI; University of Melbourne), Prof. Gary McPherson (University of Melbourne), Prof. Isabelle Peretz (University of Montreal), A/Prof. Miriam Mosing (Max Planck Institute/Karolinska Institute), Prof. Sam Berkovic (University of Melbourne), Prof. Michael Hildebrand (University of Melbourne)
+
+Singing is one of the most fundamental (and fundamentally *human*) ways of being musical. Our team is investigating the genetic bases of singing ability, and how these interact with environmental influences to shape its development over life.
+
+This work is supported by two Australian Research Council Discovery Project Grants (DP170102479 and DP200100961) and an Australian Government Research Training Program Scholarship.
+
+### [**Investigating musical identities**](http://www.researchaboutlistening.com/p/investigating-musical-identities.html)
+
+[Co-investigators]{.underline}: Dr. Amanda Krause (James Cook University), A/Prof. Melissa Forbes (University of Southern Queensland)
+
+How do sociocultural factors shape people's musical identities? How do people come to view themselves as "musicians" or similar? We are investigating what factors shape the various musical identities people take on, and how this relates to musical engagement.
+
+### **The Musical Lives of Children in Aotearoa: Evidence from a longitudinal cohort study**
+
+[Co-investigators:]{.underline} Dr. Rebecca Evans (Auckland University of Technology), Dr. Ryan Ip (Auckland University of Technology), Dr. Ben Fletcher (University of Auckland), Dr. Bronya Dean (University of Waikato)
+
+Using the [Growing Up in New Zealand](https://www.growingup.co.nz/) study, Aotearoa New Zealand's largest longitudinal study of child development, we are looking at a) predictors of musical engagement throughout the first 12 years of life, and b) how engaging with music is related to psychosocial and wellbeing outcomes in turn.
+
+### **Examining trends in music psychology research**
+
+[Co-investigators]{.underline}: Prof. Gary McPherson
+
+TBA!

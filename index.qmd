@@ -19,7 +19,7 @@ about:
       href: "mailto:yeom.d@unimelb.edu.au"
 ---
 
-## **Hi there!**
+## **Kia ora and hi there!**
 
 I'm a behavioural geneticist and part of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab#overview) in the Melbourne School of Psychological Sciences, The University of Melbourne, where I completed my PhD.
 
