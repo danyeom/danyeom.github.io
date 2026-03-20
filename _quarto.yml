@@ -15,7 +15,7 @@ website:
       - href: projects.qmd
         text: Research projects
       - href: media.qmd
-        text: Media
+        text: Media and engagement
 
 format:
   html:

@@ -35,3 +35,11 @@ My niche hobby (every academic has one) is building mechanical keyboards. (I may
 | 2015 - 2018 | **Bachelor of Science** (Psychology), **Bachelor of Music** (Musicology/Music Education)\                               |
 |             | University of Auckland                                                                                                  |
 +-------------+-------------------------------------------------------------------------------------------------------------------------+
+
+## Teaching
+
+Alongside my research I have also been a long-time tutor and sessional lecturer. Nowadays I primarily teach research methods at the University of Melbourne. My teaching typically includes:
+
+-   [MUSI90252 Research Process for Music Psychologists](https://handbook.unimelb.edu.au/2026/subjects/musi90252) (S1)
+
+-   [MUSI20225 Music Mind and Wellbeing](https://handbook.unimelb.edu.au/2026/subjects/musi20225) (S2)
