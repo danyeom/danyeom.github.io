@@ -20,7 +20,9 @@ My niche hobby (every academic has one) is building mechanical keyboards. (I may
 ## **Education**
 
 +-------------+-------------------------------------------------------------------------------------------------------------------------+
-| 2020 - 2024 | **Doctor of Philosophy**\                                                                                               |
+|             |                                                                                                                         |
++=============+=========================================================================================================================+
+| 2020 - 2025 | **Doctor of Philosophy**\                                                                                               |
 |             | Melbourne School of Psychological Sciences, Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne |
 |             |                                                                                                                         |
 |             | Supervisors: Prof. Sarah Wilson, Prof. Gary McPherson, A/Prof. Margaret Osborne                                         |
@@ -40,6 +42,6 @@ My niche hobby (every academic has one) is building mechanical keyboards. (I may
 
 Alongside my research I have also been a long-time tutor and sessional lecturer. Nowadays I primarily teach research methods at the University of Melbourne. My teaching typically includes:
 
--   [MUSI90252 Research Process for Music Psychologists](https://handbook.unimelb.edu.au/2026/subjects/musi90252) (S1)
+- [MUSI90252 Research Process for Music Psychologists](https://handbook.unimelb.edu.au/2026/subjects/musi90252) (S1)
 
--   [MUSI20225 Music Mind and Wellbeing](https://handbook.unimelb.edu.au/2026/subjects/musi20225) (S2)
+- [MUSI20225 Music Mind and Wellbeing](https://handbook.unimelb.edu.au/2026/subjects/musi20225) (S2)

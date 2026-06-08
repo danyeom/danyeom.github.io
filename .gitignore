@@ -6,3 +6,4 @@
 jobhunt_data.csv
 
 **/*.quarto_ipynb
+.positai
