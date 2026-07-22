@@ -3,7 +3,7 @@ title: "Daniel Yeom"
 subtitle: "university of melbourne"
 about:
   template: trestles
-  image: dan_profile_2025.jpg
+  image: DY_Profile_2026_v2.jpg
   image-shape: round
   image-width: 5cm
   links:
