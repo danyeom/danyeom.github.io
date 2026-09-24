@@ -15,7 +15,7 @@ Below is a list of all of my publications. I also keep my [Orcid](https://orcid.
 
 Evans, R. J., **Yeom, D.,** Tao, A., Ip, R. H. L., & Dean, B. (2026). Patterns and predictors of children’s musical engagement from an Aotearoa NZ longitudinal cohort. *Journal of the Royal Society of New Zealand, 56*(1), e70017*.* <https://doi.org/10.1002/snz2.70017>
 
-Krause, A. E., \* **Yeom, D.**, \* McKenzie, S., Glasser, S., & Osborne, M. (2026). Latent profile analysis reveals four distinct younger adult music listener typologies. *Musicae Scientiae,* Advance online publication. <https://doi.org/10.1177/10298649261419800>
+Krause, A. E., \* **Yeom, D.**, \* McKenzie, S., Glasser, S., & Osborne, M. (2026). Latent profile analysis reveals four distinct younger adult music listener typologies. *Musicae Scientiae,* *30*(2), 552-562. <https://doi.org/10.1177/10298649261419800>
 
 **Yeom, D.**, Haslam, N., Tan, Y. T., McPherson, G. E., & Wilson, S. J. (2024). Twin data support a sensitive period for singing ability. *Twin Research and Human Genetics, 27*(4-5), 204-214. [https://doi.org/10.1017/thg.2024.30](#0)
 
@@ -32,6 +32,10 @@ Krause, A. E., \* **Yeom, D.**, \* McKenzie, S., Glasser, S., & Osborne, M. (202
 ------------------------------------------------------------------------
 
 ### **Conference papers and posters**
+
+Hun, K., Krause, A., & **Yeom, D.** (2026). *Early musical support and training as determinants of adult practitioner and consumer identities*. Online Conference for Undergraduate Research in Australia (OCURA), Online.
+
+Krause, A., **Yeom, D.,** & Forbes, M. (2026, July 22-24). *Predictors of musical identities and their relationship with self-concept clarity* \[Poster presentation\]*.* Society for Music Perception and Cognition (SMPC) 2026 Conference, Evanston, IL, USA.
 
 McKenzie, S., Glasser, S., Osborne, M., & **Yeom, D.** (2024, July 2-4). *Sounds of compassion: An analysis of Spotify data* \[Conference presentation\]. 12^th^ European Society for the Cognitive Sciences of Music (ESCOM12), Melbourne, Australia.
 
